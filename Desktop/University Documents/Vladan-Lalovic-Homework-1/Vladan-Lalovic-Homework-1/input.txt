@@ -1,0 +1,83 @@
+ALICE IS BOB's BOSS.
+DAVID IS A NEW HIRE.
+bob is working.
+david is a new hire.
+ALICE IS BOB's BOSS.
+ALICE IS BOB's BOSS.
+
+
+DAVID IS A NEW HIRE.
+bob is working.
+david is a new hire.
+alice is bob's boss.
+ALICE IS BOB's BOSS.
+DAVID IS A NEW HIRE.
+
+
+bob is working.
+david is a new hire.
+alice is bob's boss.
+charles doesn't like bob.
+BOB IS WORKING.
+CHARLES DOESN'T LIKE BOB.
+charles doesn't like bob.
+BOB IS WORKING.
+
+
+CHARLES DOESN'T LIKE BOB.
+ALICE IS BOB's BOSS.
+DAVID IS A NEW HIRE.
+bob is working.
+david is a new hire.
+alice is bob's boss.
+charles doesn't like bob.
+
+
+BOB IS WORKING.
+CHARLES DOESN'T LIKE BOB.
+DAVID IS A NEW HIRE.
+bob is working.
+david is a new hire.
+alice is bob's boss.
+charles doesn't like bob.
+BOB IS WORKING.
+CHARLES DOESN'T LIKE BOB.
+alice is bob's boss.
+charles doesn't like bob.
+ALICE IS BOB's BOSS.
+ALICE IS BOB's BOSS.
+DAVID IS A NEW HIRE.
+bob is working.
+david is a new hire.
+alice is bob's boss.
+charles doesn't like bob.
+BOB IS WORKING.
+CHARLES DOESN'T LIKE BOB.
+DAVID IS A NEW HIRE.
+bob is working.
+david is a new hire.
+alice is bob's boss.
+charles doesn't like bob.
+BOB IS WORKING.
+ALICE IS BOB's BOSS.
+DAVID IS A NEW HIRE.
+bob is working.
+david is a new hire.
+alice is bob's boss.
+charles doesn't like bob.
+BOB IS WORKING.
+CHARLES DOESN'T LIKE BOB.
+CHARLES DOESN'T LIKE BOB.
+BOB IS WORKING.
+CHARLES DOESN'T LIKE BOB.
+ALICE IS BOB's BOSS.
+DAVID IS A NEW HIRE.
+bob is working.
+david is a new hire.
+alice is bob's boss.
+charles doesn't like bob.
+BOB IS WORKING.
+CHARLES DOESN'T LIKE BOB.
+
+
+
